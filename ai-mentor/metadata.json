@@ -1,0 +1,8 @@
+{
+  "name": "AI Mentor",
+  "description": "An intelligent career guidance platform offering mock interviews, placement preparation, and AI mentorship.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
